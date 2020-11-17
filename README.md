@@ -1,6 +1,6 @@
 # pynewyear
 
-[![PyPI version](https://badge.fury.io/py/pynewyear.svg)](https://pypi.org/project/pynewyear/1.0.0/)
+[![PyPI version](https://badge.fury.io/py/pynewyear.svg)](https://pypi.org/project/pynewyear/)
 
 Happy New Year! 🎄
 
