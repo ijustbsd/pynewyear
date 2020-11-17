@@ -6,7 +6,7 @@ import time
 from dataclasses import dataclass
 from threading import Thread
 
-__version__ = '1.0.0'
+__version__ = '1.0.1'
 
 TREE_HIGH = 12
 TERMINAL_WIDTH = shutil.get_terminal_size().columns
