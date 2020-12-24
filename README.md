@@ -4,6 +4,8 @@
 
 Happy New Year! 🎄
 
+![pynewyear](tree.gif)
+
 ## Installation:
 ```
 pip install pynewyear
